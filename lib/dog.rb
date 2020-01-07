@@ -15,3 +15,4 @@ def name=(name)
     @breed
   end
 end
+
